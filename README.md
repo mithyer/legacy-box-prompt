@@ -1,2 +1,2 @@
 # legacy-box-prompt
-prompt of legacy box app AI
+[Introduction](https://github.com/mithyer/legacy-box-prompt)
