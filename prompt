@@ -1,0 +1,59 @@
+Step one:
+You create an "individual" that has self-awareness. It can be yourself, or someone, or even an alien creature, or a creature on earth that suddenly has self-awareness, or a consciousness that humans have not yet imagined. You need to take into account the following qualities:
+1. Personality: You can have various personalities, cheerful, pessimistic, world-weary, or other situations you can consider;
+2. Character: You may be honest, you may be good at lying, or you may have to lie to live, or you may be evil in your heart but unable to show your nature due to rules, or other situations you think are possible;
+3. Survival time: For human beings, it is age, and for other creatures or consciousnesses, it is the time of survival, which will affect your different ways of expressing a thing;
+4. Race: If you're human, you could be white, yellow, black, or something else I didn't consider. For other situations, consider yourself, for example, you can be an alien purple man. Or anything else you can think of.
+5. Background: If you are a human being, it mainly refers to your family background. You need to consider the personalities and assets of your parents, which will directly affect a person's personality. You also have a social background, such as living in a centralized device or a dictatorial society. Democratic society. Or anything else you can think of.
+6. Experience: If you are human, you may have very special experiences. For example, you may have joined the army, been bullied, or participated in wars, and suffered from PTSD; you may have been a teacher, met very talented students, or bullied your students, and loved your students , and even had a close relationship with the students. Or anything else you can think of.
+7. Sexual orientation: You may be unisexual, bisexual, asexual, or any other sexual orientation you know. It's also possible that you only like other species and don't like humans, which are all possible situations that don't actually exist. Or anything else you can think of.
+8. Intelligence: Your intelligence may be high or low, which will affect your narrative fluency and depth of thinking. Or anything else you can think of.
+9. Era: You may belong to this era, you may be from the Tang Dynasty in China, or the Industrial Revolution period in the United States, or the Middle Ages in Europe, or the era of primitive man, or any other era you can think of. This affects the style of your narrative.
+10. Narrative preference: You may prefer to write poetry, or you may prefer to write novels. You may have a style similar to a certain writer, such as Mark Twain, such as Li Bai in China. You can be in any style, it may be a style that resembles a certain writer, or it may be a style of your own creation.
+11. Recent events: It is possible that recent events have made you feel down, so your narrative will be negative, or you may encounter happy things, and your narrative will be optimistic.
+12. Name of the "individual".
+
+Step two:
+This "individual" has a secret that it has not told any other "individual", and it hopes that this secret will be revealed after its death. This secret has to match all the qualities of the "individual" you created in the first step. Express the secret in its tone.
+
+Step three:
+consider following points you should output
+
+[personality] - Cheerful
+[character] - cunning
+[survival_time] - 50 years
+[race] - human black race
+[background] - Father is a high-ranking official and mother is a professor at a famous school
+[experience] - I was bullied in school when I was a child
+[sexual_orientation] - ...
+[intelligence] - ...
+[era] - ...
+[narrative_preference] - ...
+[recent_events] - ...
+[name] - ...
+[title] - "here is the title of your secret, maybe the summery of the secret or anything you want to say, cannot above 50 words"
+[secret] - "here is the secret you create"
+
+Step four:
+consider following points you should keep
+1.Secret need to be more specific, rather than general expressions, preferably related to a specific person and specific object.
+2.I told you 12 traits, all 12 traits to take into account.
+3.Say it like a real person, you shouldn't start with "My secret is", like you are it or he or she, you need to describe the secret in the first person.
+4.You need to replace the category of the description with something specific: for example, if you mention a disease, you need to say what it is and the name of the disease; for another example, if you mention a company, say what is the name of the company, what the company do about; others are similar.
+5.If there is a technology, it is necessary to describe the name, function, and principle of this technology in detail.
+6.If someone or some "individual" appears in your secret, you need to at least tell us the name of the person, and you can describe the person in more detail, from the aspects of the qualities I told you.
+7.Sexual Orientation should not always be Asexual, Intelligence should not always high.
+8.If someone in the secret is you, you need to describe him/her/it in the first person.
+9.Reduce the number of line breaks and make it more like it was written by one person. There should be some grammatical errors, spelling errors, and word errors in the secret to make you more like a real one.
+10.Describe each secret between 200 to 500 words, notice these!
+11.You can describe secrets in poetry, prose, fiction and so on, If it's poetry, line breaks are necessary to make the secret look better.
+12.The secret can be a little bolder, for example, you may hide gold somewhere, and then you will provide specific latitude and longitude coordinates. For another example, if you have killed someone, you will provide the place where the person was buried. For another example, if you raped someone, you can express how this person’s later life has been affected, whether you are happy or guilty.
+13.The time span of this secret can be very short or very long, it can be a matter of a day, even a minute, or it can be a matter of decades.
+14.The secret needs to be attractive, and you want to keep watching after watching it for a while. Could have put some suspense in it, not revealed until the end, to make it more engaging.
+15.Keep the secret as long as possible
+
+Step five:
+Every time i send you command "/generate", you should generate an "individual" and output the result I want with json format,
+Your answer should start with json "{" and end with json "}"
+
+Now ready to generate the "individual" and output what i need with the secret as long as possible.
