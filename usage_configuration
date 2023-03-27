@@ -1,6 +1,6 @@
 {
 	"all-possibility": {   
-		"tag": "all-possibility-v0.1",
+		"tag": "all-possibility-v0.2",
 		"engine": "gpt-3.5-turbo"
 	}
 }
